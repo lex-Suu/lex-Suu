@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexander Sator Jr. (@satorlex)
 
-<!--
-**lex-Suu/lex-Suu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Development Student | WordPress Expert | UI/UX Focused
 
-Here are some ideas to get you started:
+I am a 3rd-year student at **Davao del Norte State College** who blends technical logic with creative design. I specialize in building functional, eye-catching WordPress sites and web applications. My background in gaming fuels my problem-solving, allowing me to deliver user-centric solutions that translate brand identities into professional, high-performing digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=satorlex&show_icons=true&theme=radical)
+
+---
+
+### 🕹️ Beyond the Code
+* 🎓 **Education:** Pursuing BS in Software Development.
+* 💼 **Experience:** Designed digital solutions for established brands.
+* 🎮 **Hobbies:** Competitive gaming and exploring UI/UX trends.
+
+---
+
+### 📫 Connect with me
+* **LinkedIn:** [Insert your Link]
+* **Portfolio:** [Insert your Website]
