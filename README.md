@@ -28,13 +28,6 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 
 ---
 
-### 🕹️ Beyond the Code
-* 🎓 **Education:** Pursuing BS in Software Development.
-* 💼 **Experience:** Designed digital solutions for established brands.
-* 🎮 **Hobbies:** Competitive gaming and exploring UI/UX trends.
-
----
-
 ### 📫 Connect with me
 * **LinkedIn:** [Insert your Link]
 * **Portfolio:** [Insert your Website]
