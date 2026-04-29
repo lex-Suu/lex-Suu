@@ -19,6 +19,13 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 
 ---
 
+### 🎯 Professional Skills
+
+- 💻 **Web Development:** Responsive Design, Custom Themes, CMS Migration.
+- 🚀 **Platforms:** WordPress, Wix, Duda, Elementor.
+- 🎨 **Design:** UI/UX Principles, Branding, Wireframing.
+- 🤝 **Soft Skills:** Problem-solving, Client Communication, Project Management.
+
 ---
 
 ### 🕹️ Beyond the Code
