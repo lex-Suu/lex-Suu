@@ -20,10 +20,6 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/lex-Suu/lex-Suu/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📈 GitHub Stats
 ![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=lex-Suu&show_icons=true&theme=radical)
 
@@ -32,3 +28,9 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 ### 📫 Connect with me
 * **LinkedIn:** [Insert your Link]
 * **Portfolio:** [Insert your Website]
+
+---
+
+![snake animation](https://raw.githubusercontent.com/lex-Suu/lex-Suu/output/github-contribution-grid-snake.svg)
+
+---
