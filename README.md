@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alexander Sator Jr.
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Development;WordPress+Expert;UI%2FUX+Focused+Developer;)](https://git.io/typing-svg)
 
-I am a 3rd-year student at **Davao del Norte State College** who blends technical logic with creative design. I specialize in building functional, eye-catching WordPress sites and web applications. My background in gaming fuels my problem-solving, allowing me to deliver user-centric solutions that translate brand identities into professional, high-performing digital experiences.
+A graduate of Davao del Norte State College who blends technical logic with creative design. I specialize in building functional, eye-catching websites and web applications. My background in coding fuels my problem-solving, allowing me to deliver user-centric solutions that translate brand identities into professional, high-performing digital experiences.
 
 ---
 
