@@ -12,6 +12,8 @@ I am a 3rd-year student at **Davao del Norte State College** who blends technica
 
 ![snake animation](https://raw.githubusercontent.com/lex-Suu/lex-Suu/output/github-contribution-grid-snake.svg)
 
+---
+
 ### 📈 GitHub Stats
 ![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=lex-Suu&show_icons=true&theme=radical)
 
