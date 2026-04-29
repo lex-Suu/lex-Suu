@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alexander Sator Jr.
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Development;WordPress+Expert;UI%2FUX+Focused+Developer;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Development;Wix +Expert;UI%2FUX+Focused+Developer;)](https://git.io/typing-svg)
 
 A graduate of Davao del Norte State College who blends technical logic with creative design. I specialize in building functional, eye-catching websites and web applications. My background in coding fuels my problem-solving, allowing me to deliver user-centric solutions that translate brand identities into professional, high-performing digital experiences.
 
@@ -9,6 +9,9 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 (https://img.shields.io/badge/Duda-%23262626.svg?style=for-the-badge&logo=duda&logoColor=white) ![Duda]
 
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Wix](https://img.shields.io/badge/Wix-%230C6EBB.svg?style=for-the-badge&logo=wix&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Duda](https://img.shields.io/badge/Duda-%23262626.svg?style=for-the-badge&logo=duda&logoColor=white)
 ---
 
 ![snake animation](https://raw.githubusercontent.com/lex-Suu/lex-Suu/output/github-contribution-grid-snake.svg)
