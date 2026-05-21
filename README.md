@@ -21,7 +21,7 @@ A graduate of Davao del Norte State College who blends technical logic with crea
 ---
 
 ### 📈 GitHub Stats
-![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=lex-Suu&show_icons=true&theme=radical)
+![Alexander's Stats](https://github-readme-stats-fast.vercel.app/api?username=lex-Suu&show_icons=true&theme=radical)
 
 ---
 
